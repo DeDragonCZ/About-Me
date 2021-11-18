@@ -1,5 +1,5 @@
 <h1 align="center">Hey guys, my name is DeDragonCZ</h1>
-<h3 align="center">And I am a Czech 🇨🇿 Developer! I love to talk with people and share ideas, mostly about projects.</h3>
+<h3 align="center">...and I am a Czech 💙❤️🤍 Developer! I love to talk with people and share ideas, mostly about projects.</h3>
 
 - 🔭 At this time, I am probably coding **a custom Discord Bot for my school!**
 
